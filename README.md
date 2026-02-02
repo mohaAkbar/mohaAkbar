@@ -1,16 +1,13 @@
-## Hi there 👋
+<!-- Slow-mo fighter jet GIF -->
+![Majestic Jet](https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif)
 
-<!--
-**mohaAkbar/mohaAkbar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# ✈️ Mad — Code & Creativity in Motion
 
-Here are some ideas to get you started:
+Traveler of digital skies, pilot of ideas, and builder of things that make life smoother.  
+I craft software with precision, design with vision, and never settle for the ordinary.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Software Engineering Student  
+- 🎨 Digital Creator & Sketch Enthusiast  
+- 🌍 Explorer of ideas & possibilities  
+
+"Flying fast, thinking faster."
